@@ -17,7 +17,7 @@ Rest is History fellows.
 
 Raise one <a href="https://github.com/Shyamvegi/cptime/issues">here</a>
 
-### I have an Idea but I solely can't implement ?
+### I have an Idea but I solely can't implement !!
 
 Raise an Issue and fill out the google form in the website. 
 
