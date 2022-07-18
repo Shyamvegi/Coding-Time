@@ -1,7 +1,7 @@
 {
   "name": "cptime",
   "version": "0.1.0",
-  "homepage": "http://eswar2001.github.io/cptime",
+  "homepage": "http://shyamvegi.github.io/Coding-Time",
   "private": true,
   "dependencies": {
     "@agney/react-loading": "^0.1.2",
