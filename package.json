@@ -1,0 +1,77 @@
+{
+  "name": "cptime",
+  "version": "0.1.0",
+  "homepage": "http://eswar2001.github.io/cptime",
+  "private": true,
+  "dependencies": {
+    "@agney/react-loading": "^0.1.2",
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material/snackbar": "^10.0.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.1",
+    "aos": "^2.3.4",
+    "axios": "^0.21.1",
+    "chokidar": "^3.5.1",
+    "fetch-json": "^2.4.4",
+    "node-fetch": "^2.6.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-floating-action-button": "^1.0.5",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-table": "^7.6.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build --nomaps",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build --nomaps",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "buildpacks": [
+    {
+      "url": "mars/create-react-app"
+    }
+  ],
+  "root": "build/",
+  "routes": {
+    "/**": "index.html"
+  },
+  "https_only": true,
+  "headers": {
+    "/**": {
+      "Strict-Transport-Security": "max-age=31557600"
+    }
+  }
+}
