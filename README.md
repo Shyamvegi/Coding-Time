@@ -1,4 +1,4 @@
-## CPTime
+## Coding Time
 
 To all the competitive programming <strong>enthusiasts</strong> I here by make your life easier :smile:
 
