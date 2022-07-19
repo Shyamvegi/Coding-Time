@@ -4,7 +4,7 @@ To all the competitive programming <strong>enthusiasts</strong> I here by make y
 
 
 
-![...](https://github.com/Shyamvegi/cptime/blob/main/Capture.PNG)
+![...](https://github.com/Shyamvegi/Coding-Time/blob/main/Capture.PNG)
 
 
 
@@ -15,7 +15,7 @@ Rest is History fellows.
 
 ### I found a bug or Issue 
 
-Raise one <a href="https://github.com/Shyamvegi/cptime/issues">here</a>
+Raise one <a href="https://github.com/Shyamvegi/Coding-Time/issues">here</a>
 
 ### I have an Idea but I solely can't implement !!
 
